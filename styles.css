@@ -53,6 +53,7 @@ img{
 	background-color:white;
 	padding:20px;
 	border-radius:20px;
+text-align:center;
 }
 .main{
 	display:flex;
