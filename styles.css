@@ -1,1 +1,10 @@
-/* your css code here. If applicable */ @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); body{ background-color: #f5f5f5; font-family:Inter; } .header{ background-color: #011e29; height:60px; color:white; text-align:center; padding:10px; /* display:flex; */ /* align-items:center; */ /* justify-content:center; */ } .latest-news-section{ background-color:white; width:300px; height:150px; border-radius:20px; padding:20px; text-align:center; } ul{ text-align:center; } h3{ text-align:center; } .Main-atricals{ width:500px; height:200px; background-color:white; border-radius:20px; padding:20px; text-align:center; } p{ text-align:center; } img{ display:block; width:200px; height:150px; padding:10px } .pictorial-news{ width:180px; background-color:white; padding:20px; border-radius:20px; text-align:center; } .main{ display:flex; gap:3px; padding:10px; }
+/* your css code here. If applicable */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); 
+body{ background-color: #f5f5f5; font-family:Inter; } 
+.header{ background-color: #011e29; height:60px;color:white; text-align:center; padding:10px; /* display:flex; */ /* align-items:center; */ /* justify-content:center; */ }
+.latest-news-section{ background-color:white; width:300px; height:150px; border-radius:20px; padding:20px; text-align:center; } 
+ul{ text-align:center; } h3{ text-align:center; }
+.Main-atricals{ width:500px; height:200px; background-color:white; border-radius:20px; padding:20px; text-align:center; }
+p{ text-align:center; } img{ display:block; width:200px; height:150px; padding:10px }
+.pictorial-news{ width:180px; background-color:white; padding:20px; border-radius:20px; text-align:center; } 
+.main{ display:flex; gap:3px; padding:10px; }
